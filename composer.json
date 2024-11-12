@@ -1,0 +1,30 @@
+{
+    "name": "ferreirajr/adminfjr",
+    "description": "Package Theme Laravel + Inertia + Vuejs + Tailwind",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ferreirajr\\Adminfjr\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ferreirajr\\Adminfjr\\AdminfjrServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "Ferreira Junior"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {
+        "php": "^8.2.0",
+        "illuminate/console": "^11.0",
+        "illuminate/support": "^11.0"
+    }
+}
