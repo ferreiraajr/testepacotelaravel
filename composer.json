@@ -20,7 +20,7 @@
             "name": "Ferreira Junior"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
         "php": "^8.2.0",
