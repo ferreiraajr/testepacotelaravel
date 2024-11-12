@@ -11,7 +11,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Ferreirajr\\Adminfjr\\AdminfjrServiceProvider"
+                "Ferreirajr\\Adminfjr\\AdminFjrServiceProvider"
             ]
         }
     },
